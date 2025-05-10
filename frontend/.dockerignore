@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Nuxt build output
+.nuxt/
+.output/
+dist/
+.cache/
+.nitro/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sw?
+
+# OS
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.tgz
+.nyc_output/

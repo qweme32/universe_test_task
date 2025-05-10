@@ -1,0 +1,17 @@
+:root {
+    --green: #66D997;
+    --background: #181A1F;
+    --primary: #fff;
+    --secondary: #292C34;
+    --outline: #8D94A6;
+    --red: #F2775E;
+}
+
+body {
+    background: var(--background);
+    color: var(--primary);
+    margin: 0;
+}
+* {
+    font-family: "Manrope", sans-serif;
+}
